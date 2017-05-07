@@ -4,7 +4,7 @@ Introduction
 
 
 
-# 13 Customizing the prompt – Some alternative prompt designs.
+#13 Customizing the prompt – Some alternative prompt designs.
 
 We are able to change the prompt to see the effect. First, we will back up the existing string, so we could restore it later. To do this, we will copy the existing string into another shell variable, what we create by ourselves:
 
