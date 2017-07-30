@@ -1,4 +1,4 @@
-# Linux-basic-commands
+# Linux Assignments
 
 Introduction
 
