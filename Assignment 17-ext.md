@@ -35,7 +35,7 @@ We can realise we get nothing. The prompt is still there but displays nothing, j
 PS1="\$ "
  ```
 
-Now we can see what we are oing. Notice the trailing space within the double quotes. This provides the space between the dollar sign and the cursor when the prompt is displayed. 
+Now we can see what we are doing. Notice the trailing space within the double quotes. This provides the space between the dollar sign and the cursor when the prompt is displayed. 
 ```
 $ PS1="\A \h \$ "
 ```
